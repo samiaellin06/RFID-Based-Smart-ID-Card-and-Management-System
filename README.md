@@ -1,0 +1,1 @@
+It is a hardware project where you can scan your ID card to enroll yourself to a course, complete advising, give attendance, withdraw book from the library and many more and all the task where monitored via an software. The hardware was made using RFID scanner and NodeMCU. The software was built using Java GUI and SQL. 
